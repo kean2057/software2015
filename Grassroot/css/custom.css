@@ -1,0 +1,15 @@
+body{
+	background: url(../images/skyGrass.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#logWell{
+	margin-left:300px;
+	margin-right:200px;
+	position:fixed;
+}
+.container{
+	width:970px;
+}

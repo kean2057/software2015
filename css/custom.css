@@ -1,0 +1,97 @@
+/*
+#wellAbout{
+	max-width: 750px;
+}
+*/
+/*
+#tableBody{
+	border:0px;
+}
+*/
+.thumbnail{
+ background-color:white;
+}
+#statuspic{
+	text-align: center;
+}
+
+#footerlinks ul{
+	list-style-type: none;
+    padding-top: 10px;
+}
+#footerlinks li{
+	display: inline;
+}
+.teampic{
+	height: 40%;
+	width: 40%;
+	border-color: black;
+	border-style: ridge;
+	border-width: 3px;
+	margin: 25px;
+}
+
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+#ot-namebox{
+	margin-top: 10px;
+}
+
+#biglogo{
+	max-width: 40%;
+	max-height: 40%;
+	padding: 10px;
+}
+
+.jumbotron{
+	padding: 50px 60px 20px 60px;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+.img-rounded {
+    border-radius: 6px;
+}
+.img-thumbnail {
+    background-color: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    display: inline-block;
+    height: auto;
+    line-height: 1.42857;
+    max-width: 100%;
+    padding: 4px;
+    transition: all 0.2s ease-in-out 0s;
+}
+.img-circle {
+    border-radius: 50%;
+}
+.mptable{
+	padding: 50px;
+}
+.docsDoc{
+	margin:auto;
+}
+.docsSm{
+	margin:auto;
+}
